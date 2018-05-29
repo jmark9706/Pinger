@@ -3,3 +3,5 @@ information on the ping latency.  It tracks the average ping latency as well fai
 indicated by lack of ping responses.
 
 Pinger is a .Net C# Windows Forms application.
+
+Build it with Visual Studio.
